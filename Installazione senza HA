@@ -1,0 +1,4 @@
+INSTALLAZIONE:
+1) sudo git clone https://github.com/savergiggio/chihiros-led-control
+2) sudo pip install -e .
+3) Inviiare i Comandi
